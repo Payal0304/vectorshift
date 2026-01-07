@@ -1,4 +1,4 @@
-# VectorShift Frontend Technical Assessment
+# Visual Pipeline Builder
 
 This project is a visual pipeline builder that allows users to create workflows using nodes and connections, and submit the pipeline for backend validation.
 
