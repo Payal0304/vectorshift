@@ -1,0 +1,15 @@
+.toolbar {
+  background: var(--panel);
+  padding: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.toolbar button {
+  background: var(--accent);
+  border: none;
+  color: #020617;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
